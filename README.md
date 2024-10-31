@@ -61,7 +61,7 @@ This project is deployed on Hugging Face Spaces for easy accessibility.
 + Note: Use the gr.Interface.launch() command with share=True for local testing.
 + 
 # Results
-T+ he Helsinki-NLP/opus-mt model provides accurate and coherent translations among the supported languages.
++ he Helsinki-NLP/opus-mt model provides accurate and coherent translations among the supported languages.
 + BLEU scores indicate the model’s quality in translating between English, French, German, and Spanish.
   
 # Conclusion
